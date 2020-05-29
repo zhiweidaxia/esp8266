@@ -8,3 +8,7 @@ http://arduino.esp8266.com/stable/package_esp8266com_index.json
 进入Arduino的“工具”，点击开发板内的“开发板管理器”，并在弹出的界面中选择ESP8266，点击安装即可。
 3.
 进入Arduino的“工具”，点击开发板内的“NodeMCU1.0（根据自己ESP的型号决定）”选项即可下载。
+
+烧录完毕之后，只需要在串口中输入 
+h"数据"t"数据"f"数据"
+格式数据即可。
