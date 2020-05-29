@@ -13,3 +13,5 @@ http://arduino.esp8266.com/stable/package_esp8266com_index.json
 烧录完毕之后，只需要在串口中输入 
 h"数据"t"数据"f"数据"
 格式数据即可。
+
+作者：张大作死
